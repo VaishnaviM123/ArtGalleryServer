@@ -1,0 +1,512 @@
+{
+  "paintings": [
+    {
+      "name": "Telangana",
+      "artist": "Kappari Kishan",
+      "pImage": "https://i.postimg.cc/CLWCTGVN/Screenshot-2024-05-29-170459.png",
+      "category": "People",
+      "size": "54 x 64cm",
+      "price": "180",
+      "id": 1
+    },
+    {
+      "name": "Frienship",
+      "artist": "Kappari Kishan",
+      "pImage": "https://i.postimg.cc/DZZ4b0T0/Screenshot-2024-05-29-171142.png",
+      "category": "People",
+      "size": "94 x 114cm",
+      "price": "200",
+      "id": 2
+    },
+    {
+      "name": "Sun Flower Girl",
+      "artist": "Kappari Kishan",
+      "pImage": "https://i.postimg.cc/HWF3dDwX/Screenshot-2024-05-29-171505.png",
+      "category": "People",
+      "size": "118 x 144cm",
+      "price": "175",
+      "id": 3
+    },
+    {
+      "name": "Telangana",
+      "artist": "Kappari Kishan",
+      "pImage": "https://i.postimg.cc/SxhrY6tK/Screenshot-2024-05-29-171629.png",
+      "category": "People",
+      "size": "54 x 64cm",
+      "price": "160",
+      "id": 4
+    },
+    {
+      "name": "Dancing to His Tune",
+      "artist": "Radhika Seksaria",
+      "pImage": "https://i.postimg.cc/6qZryqrR/Screenshot-2024-05-29-171844.png",
+      "category": "Figurative",
+      "size": "118 x 144cm",
+      "price": "347",
+      "id": 5
+    },
+    {
+      "name": "Banaras",
+      "artist": "Parmesh Paul",
+      "pImage": "https://i.postimg.cc/RZdc3jHP/Screenshot-2024-05-29-172017.png",
+      "category": "Figurative",
+      "size": "70 x 84cm",
+      "price": "500",
+      "id": 6
+    },
+    {
+      "name": "Unknown",
+      "artist": "Pichwai",
+      "pImage": "https://i.postimg.cc/Xvv99QKn/Screenshot-2024-05-29-172143.png",
+      "category": "Figurative",
+      "size": "70 x 84cm",
+      "price": "266",
+      "id": 7
+    },
+    {
+      "name": "Unknown",
+      "artist": "Vijay Gille",
+      "pImage": "https://i.postimg.cc/rmxs4rH8/Screenshot-2024-05-29-172358.png",
+      "category": "Figurative",
+      "size": "138 x 169cm ",
+      "price": "360",
+      "id": 8
+    },
+    {
+      "name": "Lady Hiding Emotions",
+      "artist": "Dev Karan Kumar",
+      "pImage": "https://i.postimg.cc/yNt4Hpvd/Screenshot-2024-05-29-174924.png",
+      "category": "Nature",
+      "size": "138 x 169cm ",
+      "price": "560",
+      "id": 9
+    },
+    {
+      "name": "Lady Hiding Emotions",
+      "artist": "Dev Karan Kumar",
+      "pImage": "https://i.postimg.cc/0yXhYHgf/Screenshot-2024-05-29-175200.png",
+      "category": "People",
+      "size": "70 x 84cm",
+      "price": "450",
+      "id": 10
+    },
+    {
+      "name": "Neture",
+      "artist": "Avnesh Sigh",
+      "pImage": "https://i.postimg.cc/W1yfFFrY/Screenshot-2024-05-29-175336.png",
+      "category": "Nature",
+      "size": "94 x 114cm",
+      "price": "340",
+      "id": 11
+    },
+    {
+      "name": "Winter Forest",
+      "artist": "Gitika Singh",
+      "pImage": "https://i.postimg.cc/MGHNCn4H/Screenshot-2024-06-01-111039.png",
+      "category": "Winter",
+      "size": "70 x 84cm",
+      "price": "200",
+      "id": 12
+    },
+    {
+      "name": "Winter Walk",
+      "artist": "Popp Grace",
+      "pImage": "https://i.postimg.cc/PxpWnHT1/Screenshot-2024-06-01-111507.png",
+      "category": "Winter",
+      "size": "118 x 144cm",
+      "price": "150",
+      "id": 13
+    },
+    {
+      "name": "skyscrapers",
+      "artist": "Rrashika",
+      "pImage": "https://i.postimg.cc/7Lm5sWz0/Screenshot-2024-06-01-112117.png",
+      "size": "138 x 169cm",
+      "price": "340",
+      "id": 14
+    },
+    {
+      "name": "Freedom's worth",
+      "artist": "Tama",
+      "pImage": "https://i.postimg.cc/HLZhYT5x/Screenshot-2024-06-01-112416.png",
+      "category": "Facade",
+      "size": "94 x 114cm",
+      "price": "590",
+      "id": 15
+    },
+    {
+      "name": "Stairs",
+      "artist": "Colonel Anil Mehrotra",
+      "pImage": "https://i.postimg.cc/L4cyhJgs/Screenshot-2024-06-01-113124.png",
+      "category": "Summer",
+      "size": "138 x 169cm",
+      "price": "180",
+      "id": 16
+    },
+    {
+      "name": "Monsoon",
+      "artist": "Fareed Ahmed",
+      "pImage": "https://i.postimg.cc/YCZ4k4R0/Screenshot-2024-06-01-113354.png",
+      "category": "Monsoon",
+      "size": "70 x 84cm",
+      "price": "200",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "name": "THE WAVE WHISPERER",
+      "artist": "LUCIEN EVANGELISTA",
+      "pImage": "https://i.postimg.cc/7hB1DQt7/s1.png",
+      "category": "Summer",
+      "size": "54 x 64cm",
+      "price": "234.5",
+      "id": 1
+    },
+    {
+      "name": "ON ITS WAY",
+      "artist": "JORDAN LANCASTER GRAHAM",
+      "pImage": "https://i.postimg.cc/d0KCMYQp/s2.png",
+      "category": "Monsoon",
+      "size": "94 x 114cm",
+      "price": "235",
+      "id": 2
+    },
+    {
+      "name": "MORNING REFLECTION",
+      "artist": "GIOVANNA ARYAFARA",
+      "pImage": "https://i.postimg.cc/13FFYtSD/s3.png",
+      "category": "People",
+      "size": "118 x 144cm",
+      "price": "235",
+      "id": 3
+    },
+    {
+      "name": "HANDELSBEURS ANTWERPEN",
+      "artist": "ASH JAMES",
+      "pImage": "https://i.postimg.cc/HxvjLDHp/s4.png",
+      "category": "Facade",
+      "size": "70 x 84cm",
+      "price": "235",
+      "id": 4
+    },
+    {
+      "name": "MAJESTIC HARMONY",
+      "artist": "MAHENDRA BAKLE",
+      "pImage": "https://i.postimg.cc/CMJsjzM1/s5.png",
+      "category": "Nature",
+      "size": "138 x 169cm",
+      "price": "235",
+      "id": 5
+    },
+    {
+      "name": "ATLANTIC WAVES BEHIND THE SCHOOLHOUSE",
+      "artist": "SEAN O'RIORDAN",
+      "pImage": "https://i.postimg.cc/RZpBZZXX/Screenshot-2024-05-29-165555.png",
+      "category": "Nature",
+      "size": "118 x 144cm",
+      "price": "235",
+      "id": 6
+    },
+    {
+      "name": "DUOMO, FLORENCE",
+      "artist": "ONATHAN DANIEL PRYCE",
+      "pImage": "https://i.postimg.cc/wMkK8q15/Screenshot-2024-05-29-165834.png",
+      "category": "Summer",
+      "size": "118 x 169cm",
+      "price": "345",
+      "id": 7
+    },
+    {
+      "name": "VILLE LUMIÈRE",
+      "artist": "CHRISTOPHE PUÉCHAVIC",
+      "pImage": "https://i.postimg.cc/3xcsHbxq/Screenshot-2024-05-29-170050.png",
+      "category": "Facade",
+      "size": "70 x 84cm",
+      "price": "400",
+      "id": 8
+    },
+    {
+      "name": "A MOMENT OF SERENITY",
+      "artist": "HANNES KLÄGER",
+      "pImage": "https://i.postimg.cc/R0xTfcsF/Screenshot-2024-05-29-170213.png",
+      "category": "Summer",
+      "size": "118 x 144cm",
+      "price": "210",
+      "id": 9
+    },
+    {
+      "name": "Lake of Ice",
+      "artist": "Cristiano Vendramin",
+      "pImage": "https://i.postimg.cc/4d29q8Y7/Screenshot-2024-06-01-114431.png",
+      "category": "Winter",
+      "size": "138 x 169cm",
+      "price": "450",
+      "id": 10
+    },
+    {
+      "name": "Unstoppable",
+      "artist": "Jessica Mohn",
+      "pImage": "https://i.postimg.cc/Wpk9gKtf/Screenshot-2024-06-01-115422.png",
+      "category": "Winter",
+      "size": "118 * 144cm",
+      "price": "300",
+      "id": 11
+    }
+  ],
+  "category": [
+    {
+      "name": "Summer",
+      "cImage": "https://i.postimg.cc/tJt8xyMt/Screenshot-2024-05-31-104700.png",
+      "paintings": [
+        {
+          "id": 16,
+          "name": "Stairs",
+          "artist": "Colonel Anil Mehrotra",
+          "pImage": "https://i.postimg.cc/L4cyhJgs/Screenshot-2024-06-01-113124.png",
+          "size": "138 x 169cm",
+          "price": "180"
+        }
+      ],
+      "photographs": [
+        {
+          "id": 7,
+          "name": "DUOMO, FLORENCE",
+          "artist": "ONATHAN DANIEL PRYCE",
+          "pImage": "https://i.postimg.cc/wMkK8q15/Screenshot-2024-05-29-165834.png",
+          "size": "138 x 169cm",
+          "price": "345"
+        },
+        {
+          "id": 9,
+          "name": "A MOMENT OF SERENITY",
+          "artist": "HANNES KLÄGER",
+          "pImage": "https://i.postimg.cc/R0xTfcsF/Screenshot-2024-05-29-170213.png",
+          "size": "118 x 144cm",
+          "price": "210"
+        },
+        {
+          "id": 1,
+          "name": "THE WAVE WHISPERER",
+          "artist": "LUCIEN EVANGELISTA",
+          "pImage": "https://i.postimg.cc/7hB1DQt7/s1.png",
+          "size": "54 x 64cm",
+          "price": "234.5"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Monsoon",
+      "cImage": "https://i.postimg.cc/FFjMqgHd/Screenshot-2024-05-31-104836.png",
+      "paintings": [
+        {
+          "id": 17,
+          "name": "Monsoon",
+          "artist": "Fareed Ahmed",
+          "pImage": "https://i.postimg.cc/YCZ4k4R0/Screenshot-2024-06-01-113354.png",
+          "size": "70 x 84cm",
+          "price": "200"
+        }
+      ],
+      "photographs": [
+        {
+          "id": 2,
+          "name": "ON ITS WAY",
+          "artist": "JORDAN LANCASTER GRAHAM",
+          "pImage": "https://i.postimg.cc/d0KCMYQp/s2.png",
+          "size": "94 x 114cm",
+          "price": "235"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Winter",
+      "cImage": "https://i.postimg.cc/XJ9zR44S/Screenshot-2024-05-31-105211.png",
+      "paintings": [
+        {
+          "id": 12,
+          "name": "Winter Forest",
+          "artist": "Gitika Singh",
+          "pImage": "https://i.postimg.cc/MGHNCn4H/Screenshot-2024-06-01-111039.png",
+          "size": "70 x 84cm",
+          "price": "200"
+        },
+        {
+          "id": 13,
+          "name": "Winter Walk",
+          "artist": "Popp Grace",
+          "pImage": "https://i.postimg.cc/PxpWnHT1/Screenshot-2024-06-01-111507.png",
+          "size": "118 x 144cm",
+          "price": "150"
+        },
+        {
+          "name": "Lake of Ice",
+          "artist": "Cristiano Vendramin",
+          "pImage": "https://i.postimg.cc/4d29q8Y7/Screenshot-2024-06-01-114431.png",
+          "category": "Winter",
+          "size": "138 x 169cm",
+          "price": "450",
+          "id": 10
+        }
+      ],
+      "photographs": [
+        {
+          "id": 10,
+          "name": "Lake of Ice",
+          "artist": "Cristiano Vendramin",
+          "pImage": "https://i.postimg.cc/4d29q8Y7/Screenshot-2024-06-01-114431.png",
+          "size": "138 x 169cm",
+          "price": "450"
+        },
+        {
+          "id": 11,
+          "name": "Unstoppable",
+          "artist": "Jessica Mohn",
+          "pImage": "https://i.postimg.cc/Wpk9gKtf/Screenshot-2024-06-01-115422.png",
+          "size": "118 * 144cm",
+          "price": "300"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "People",
+      "cImage": "https://i.postimg.cc/XYXDVw4g/Screenshot-2024-05-31-105320.png",
+      "paintings": [
+        {
+          "id": 3,
+          "name": "Sun Flower Girl",
+          "artist": "Kappari Kishan",
+          "pImage": "https://i.postimg.cc/HWF3dDwX/Screenshot-2024-05-29-171505.png",
+          "size": "118 x 144cm",
+          "price": "175"
+        },
+        {
+          "id": 1,
+          "name": "Telangana",
+          "artist": "Kappari Kishan",
+          "pImage": "https://i.postimg.cc/CLWCTGVN/Screenshot-2024-05-29-170459.png",
+          "size": "54 x 64cm",
+          "price": "180"
+        },
+        {
+          "id": 4,
+          "name": "Telangana",
+          "artist": "Kappari Kishan",
+          "pImage": "https://i.postimg.cc/SxhrY6tK/Screenshot-2024-05-29-171629.png",
+          "size": "54 x 64cm",
+          "price": "160"
+        },
+        {
+          "id": 10,
+          "name": "Lady Hiding Emotions",
+          "artist": "Dev Karan Kumar",
+          "pImage": "https://i.postimg.cc/0yXhYHgf/Screenshot-2024-05-29-175200.png",
+          "size": "70 x 84cm",
+          "price": "450"
+        },
+        {
+          "id": 2,
+          "name": "Frienship",
+          "artist": "Kappari Kishan",
+          "pImage": "https://i.postimg.cc/DZZ4b0T0/Screenshot-2024-05-29-171142.png",
+          "size": "94 x 114cm",
+          "price": "200"
+        }
+      ],
+      "photographs": [],
+      "id": 4
+    },
+    {
+      "name": "Nature",
+      "cImage": "https://i.postimg.cc/d1cWmpdW/Screenshot-2024-05-31-105421.png",
+      "paintings": [
+        {
+          "id": 11,
+          "name": "Neture",
+          "artist": "Avnesh Sigh",
+          "pImage": "https://i.postimg.cc/W1yfFFrY/Screenshot-2024-05-29-175336.png",
+          "size": "94 x 114cm",
+          "price": "340"
+        },
+        {
+          "id": 9,
+          "name": "Lady Hiding Emotions",
+          "artist": "Dev Karan Kumar",
+          "pImage": "https://i.postimg.cc/yNt4Hpvd/Screenshot-2024-05-29-174924.png",
+          "size": "138 x 169cm ",
+          "price": "560"
+        }
+      ],
+      "photographs": [],
+      "id": 5
+    },
+    {
+      "cImage": "https://i.postimg.cc/brz34nmk/Screenshot-2024-05-31-105532.png",
+      "name": "Facade",
+      "paintings": [
+        {
+          "id": 15,
+          "name": "Freedom's worth",
+          "artist": "Tama",
+          "pImage": "https://i.postimg.cc/HLZhYT5x/Screenshot-2024-06-01-112416.png",
+          "size": "94 x 114cm",
+          "price": "590"
+        }
+      ],
+      "photographs": [
+        {
+          "id": 8,
+          "name": "VILLE LUMIÈRE",
+          "artist": "CHRISTOPHE PUÉCHAVIC",
+          "pImage": "https://i.postimg.cc/3xcsHbxq/Screenshot-2024-05-29-170050.png",
+          "size": "70 x 84cm",
+          "price": "400"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "Figurative",
+      "cImage": "https://i.postimg.cc/MpcdkqmP/Screenshot-2024-05-31-105621.png",
+      "paintings": [
+        {
+          "id": 6,
+          "name": "Banaras",
+          "artist": "Parmesh Paul",
+          "pImage": "https://i.postimg.cc/RZdc3jHP/Screenshot-2024-05-29-172017.png",
+          "size": "70 x 84cm",
+          "price": "500"
+        },
+        {
+          "id": 5,
+          "name": "Dancing to His Tune",
+          "artist": "Radhika Seksaria",
+          "pImage": "https://i.postimg.cc/6qZryqrR/Screenshot-2024-05-29-171844.png",
+          "size": "118 x 144cm",
+          "price": "347"
+        },
+        {
+          "id": 8,
+          "name": "Unknown",
+          "artist": "Vijay Gille",
+          "pImage": "https://i.postimg.cc/rmxs4rH8/Screenshot-2024-05-29-172358.png",
+          "size": "138 x 169cm ",
+          "price": "360"
+        },
+        {
+          "id": 7,
+          "name": "Unknown",
+          "artist": "Pichwai",
+          "pImage": "https://i.postimg.cc/Xvv99QKn/Screenshot-2024-05-29-172143.png",
+          "size": "70 x 84cm",
+          "price": "266"
+        }
+      ],
+      "photographs": [],
+      "id": 7
+    }
+  ]
+}
